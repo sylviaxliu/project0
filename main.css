@@ -1,0 +1,21 @@
+@media (min-width: 800px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+body {
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    font-family: 'Open Sans';
+}
+
+a {
+    background-color: #69D2E7;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
